@@ -4,4 +4,8 @@ These files are the contributions of the article.
 
 For the dataset, I have used audio samples that can be found here : https://www.kaggle.com/rtatman/speech-accent-archive.
 GitHub doesn't allow me to give you all the spectrogram files generated, so I decided to give you at max 100 of each accent as an example. If you need all of it, feel free to use the dataset present on y personal Kaggle profile : https://www.kaggle.com/pberjon/accent-data.
-Each Python Notebook gives one contribution of the article (and one model I have used).
+Each Python Notebook gives one contribution of the article (and one model I have used): 
+  - accentrecognitionsvm.ipynb : the SVM
+  - accentrecognitioncnn2.ipynb : the 2-layer CNN
+  - accentrecognitioncnn4.ipynb : the 4-layer CNN
+  - datasetcreation.ipynb : a notebook to create the spectrogram samples with the audio samples
