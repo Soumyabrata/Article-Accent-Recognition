@@ -8,6 +8,8 @@ Please cite the above paper if you intent to use whole/part of the code. This co
 
 ![picture](https://github.com/pberjon/Article-Accent-Recognition/blob/master/images/english1.png)
 
+*Spectrogram of an English sample.*
+
 These files are the contributions of the article. 
 
 For the dataset, I have used audio samples that can be found here : https://www.kaggle.com/rtatman/speech-accent-archive.
