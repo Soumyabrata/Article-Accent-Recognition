@@ -10,12 +10,17 @@ Please cite the above paper if you intent to use whole/part of the code. This co
 
 *Spectrogram of an English sample.*
 
-These files are the contributions of the article. 
+ ## Code Organization
+ All codes are written in `python3`.
+ 
+ ### Data
+The audio samples can be found here : https://www.kaggle.com/rtatman/speech-accent-archive.
+GitHub doesn't allow me to give you all the spectrogram files generated, so I decided to give you at max 100 of each accent as an example. If you need all of it, feel free to use the dataset of spectrograms present on my personal Kaggle profile : https://www.kaggle.com/pberjon/accent-data.
 
-For the dataset, I have used audio samples that can be found here : https://www.kaggle.com/rtatman/speech-accent-archive.
-GitHub doesn't allow me to give you all the spectrogram files generated, so I decided to give you at max 100 of each accent as an example. If you need all of it, feel free to use the dataset present on y personal Kaggle profile : https://www.kaggle.com/pberjon/accent-data.
+### Scripts
+
 Each Python Notebook gives one contribution of the article (and one model I have used): 
-  - accentrecognitionsvm.ipynb : the SVM
-  - accentrecognitioncnn2.ipynb : the 2-layer CNN
-  - accentrecognitioncnn4.ipynb : the 4-layer CNN
-  - datasetcreation.ipynb : a notebook to create the spectrogram samples with the audio samples
+ + `accentrecognitionsvm.ipynb` : the SVM
+ + `accentrecognitioncnn2.ipynb` : the 2-layer CNN
+ + `accentrecognitioncnn4.ipynb` : the 4-layer CNN
+ + `datasetcreation.ipynb` : a notebook to create the spectrogram samples with the audio samples
