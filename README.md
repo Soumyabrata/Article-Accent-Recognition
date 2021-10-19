@@ -33,4 +33,3 @@ Each Python Notebook gives one contribution of the article (and one model I have
  + `accentrecognitionsvm.ipynb` : the SVM
  + `accentrecognitioncnn2.ipynb` : the 2-layer CNN
  + `accentrecognitioncnn4.ipynb` : the 4-layer CNN
- + `datasetcreation.ipynb` : a notebook to create the spectrogram samples with the audio samples
